@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="Nijo" constructor="NextIcon" version="0.0.2" display-name-key="NextIcon" description-key="NextIcon description" control-type="standard">
+    <property name="twooption" display-name-key="Two Option Field" description-key="Bounded Two-Option field" of-type="TwoOptions" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1" />
+    </resources>
+  </control>
+</manifest>
